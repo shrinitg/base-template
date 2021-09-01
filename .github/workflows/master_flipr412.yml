@@ -56,5 +56,5 @@
           with:
             app-name: 'flipr412'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_18559023545445e5bfe7f25cbd943f47 }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_a03d99db02274c74b07f806e8b7f937f }}
             package: .
